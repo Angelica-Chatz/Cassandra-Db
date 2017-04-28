@@ -1,10 +1,10 @@
 ## NoSQL-Db-1
 #Assignment using:
 
--VM through Okeanos (OS: Ubuntu Server LTS, No GUI)
--Cassandra Db
--PuTTY (SSH, Telnet and Rlogin client)
--CQL
+- VM through Okeanos (OS: Ubuntu Server LTS, No GUI)
+- Cassandra Db
+- PuTTY (SSH, Telnet and Rlogin client)
+- CQL
 
 #Tasks:
 
